@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @animeking1233
+- 👋 Hi, I’m @TechPixelOni
 - 🌱 I’m currently learning Python, Front-End Web dev, and plenty other cool things
 - 💞️ I’m looking to collaborate on ... stuff
 - 📫 How to reach me ... nothing right now
